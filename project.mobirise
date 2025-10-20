@@ -87,8 +87,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Lex & Partners",
+        "meta_descr": "A full-service law firm based in Kuala Lumpur.\nWe are dedicated to delivering clear, practical, and result-driven legal solutions to individuals, corporations, and institutions.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
